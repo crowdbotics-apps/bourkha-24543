@@ -10,7 +10,6 @@ import Maps206395Navigator from '../features/Maps206395/navigator';
 import UserProfile206391Navigator from '../features/UserProfile206391/navigator';
 import UserProfile206189Navigator from '../features/UserProfile206189/navigator';
 import Tutorial206188Navigator from '../features/Tutorial206188/navigator';
-import NotificationList206160Navigator from '../features/NotificationList206160/navigator';
 import Settings206159Navigator from '../features/Settings206159/navigator';
 import Settings206151Navigator from '../features/Settings206151/navigator';
 import UserProfile206149Navigator from '../features/UserProfile206149/navigator';
@@ -38,7 +37,6 @@ Maps206395: { screen: Maps206395Navigator },
 UserProfile206391: { screen: UserProfile206391Navigator },
 UserProfile206189: { screen: UserProfile206189Navigator },
 Tutorial206188: { screen: Tutorial206188Navigator },
-NotificationList206160: { screen: NotificationList206160Navigator },
 Settings206159: { screen: Settings206159Navigator },
 Settings206151: { screen: Settings206151Navigator },
 UserProfile206149: { screen: UserProfile206149Navigator },
