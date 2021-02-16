@@ -21,7 +21,6 @@ import Settings206067Navigator from '../features/Settings206067/navigator';
 import UserProfile206065Navigator from '../features/UserProfile206065/navigator';
 import UserProfile205535Navigator from '../features/UserProfile205535/navigator';
 import NotificationList205506Navigator from '../features/NotificationList205506/navigator';
-import Settings205505Navigator from '../features/Settings205505/navigator';
 import Settings205497Navigator from '../features/Settings205497/navigator';
 import UserProfile205495Navigator from '../features/UserProfile205495/navigator';
 
@@ -48,7 +47,6 @@ Settings206067: { screen: Settings206067Navigator },
 UserProfile206065: { screen: UserProfile206065Navigator },
 UserProfile205535: { screen: UserProfile205535Navigator },
 NotificationList205506: { screen: NotificationList205506Navigator },
-Settings205505: { screen: Settings205505Navigator },
 Settings205497: { screen: Settings205497Navigator },
 UserProfile205495: { screen: UserProfile205495Navigator },
 
